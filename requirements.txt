@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+bertopic
+statsmodels
+plotly
+nltk
+flask
+gunicorn
